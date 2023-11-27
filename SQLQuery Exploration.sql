@@ -1,4 +1,5 @@
 ---#Sql queries exploring Deaths/Vaccinations info on Covid 19
+---#Info pulled from data stated by notes first.
 
 ---selecting SOME COVID TABLE DATA to look at
 SELECT location,date,total_cases,new_cases,total_deaths,population
