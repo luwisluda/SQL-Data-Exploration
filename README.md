@@ -1,4 +1,3 @@
-#View Codes, click on "SQLQuery Exploration.sql"
 # SQL-Data-Exploration
 SQL DATA Exploration
 SQL query shows the codes used in the exploring the Covid Dataset.
