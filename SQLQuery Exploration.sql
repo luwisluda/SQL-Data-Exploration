@@ -3,7 +3,6 @@ SELECT location,date,total_cases,new_cases,total_deaths,population
 FROM PortfolioProject1.dbo.CovidDeaths
 ORDER BY 1,2
 
--    
 
 ----- checking a location's (eg; Papau New Guinea's) INFECTED POPULATION as per DATE
 SELECT location,date,total_cases,population,(total_cases/population)*100 as Infected_percentage
