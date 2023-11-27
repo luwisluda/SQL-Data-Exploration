@@ -1,8 +1,4 @@
-SELECT *
-FROM PortfolioProject1.dbo.CovidDeaths
-
- 
- ---selecting SOME COVID TABLE DATA to look at
+---selecting SOME COVID TABLE DATA to look at
 SELECT location,date,total_cases,new_cases,total_deaths,population
 FROM PortfolioProject1.dbo.CovidDeaths
 ORDER BY 1,2
