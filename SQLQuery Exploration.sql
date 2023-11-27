@@ -1,4 +1,5 @@
----Sql queries Data_ information on Covid 19
+---#Sql queries exploring Data_ information on Covid 19
+
 ---selecting SOME COVID TABLE DATA to look at
 SELECT location,date,total_cases,new_cases,total_deaths,population
 FROM PortfolioProject1.dbo.CovidDeaths
